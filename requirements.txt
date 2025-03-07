@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+seasonal_decompose
+plot_acf
+plot_pacf
