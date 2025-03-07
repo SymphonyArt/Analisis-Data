@@ -15,7 +15,7 @@ Beberapa kolom utama yang terdapat pada dataset:
 
 ---
 
-## Cara Menjalankan Dashboard
+## Cara Menjalankan Dashboard (https://zqizwo4ckesbvvm4bm9bhpm.streamlit.app/)
 
 Untuk menjalankan **`dashboard.py`** yang telah dibuat di proyek ini, berikut adalah langkah-langkah yang perlu Anda ikuti:
 
@@ -48,3 +48,5 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi **Streamlit** dan membu
 ### 3. Buka Dashboard di Browser
 
 Setelah menjalankan perintah di atas, **Streamlit** akan memulai server lokal dan membuka aplikasi di browser Anda secara otomatis. Jika tidak terbuka secara otomatis, Anda dapat membuka browser dan masuk ke alamat berikut:
+
+
